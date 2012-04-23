@@ -1,0 +1,5 @@
+### Disability:
+
+Students with special needs (learning, physical or other) who have filed satisfactory documentation of a disability in the office of the Dean of Students may receive reasonable accommodation from the instructor. Any student who files such paperwork with the Dean must please notify the instructor immediately.
+
+Please note that work completed by a student prior to filing such paperwork, or work completed by students who do not consent to have information about the disability released to professors, will stand as completed, even after such documentation is later filed. (That is, such work cannot be re-done or re-graded retroactively.) However, accommodation can commence immediately from the point that the instructor becomes aware of the need. (Note: If it is determined by a professional, certified physician that a preexisting condition has contributed to a students' impediment, then with proper documentation, some reasonable consideration may be given.)
