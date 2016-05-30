@@ -2,9 +2,13 @@ elementaryHebrew2
 =================
 **Copyright Brooke Lester 2012:** I make this syllabus, and each of its files, available under a Creative Commons ["Attribution CC BY 3.0"][rlcc3] license. This license lets others distribute, remix, tweak, and build upon my work, even commercially, as long as they credit me for the original creation.
 [rlcc3]: http://creativecommons.org/licenses/by/3.0/ 
-***
+
+* * *
+
 Elementary Biblical Hebrew 2 (13 weeks, face to face)
-***
+
+* * *
+
 # Elementary Biblical Hebrew (11-542, 2012)
 
 ## Description
@@ -16,7 +20,7 @@ Besides the text books (below), students will also need to have dependable inter
 **Text books:**
 
 1. Brown, Francis, S. R. Driver, Charles A. Briggs, Edward Robinson, Wilhelm Gesenius, and Maurice A. Robinson. *The New Brown, Driver, Briggs, Gesenius Hebrew and English Lexicon: With an Appendix Containing the Biblical Aramaic.* Peabody: Hendrickson Publishers, 1996. ISBN-13: 9781565632066 (hardcover). Cost: $27.96 (down from 34.95) at Cokesbury.com.
-2. Dobson, John H. *Learn Biblical Hebrew.* 2nd ed. Carlisle, U.K.; Grand Rapids, Mich.: Baker Academic, 2005. ISBN-13: 9780801031021 (hardcover). Cost: $23.99 (down from 29.99) at Cokesbury.com.
+2.Seow, C.L. _A Grammar for Biblical Hebrew._ Rev ed. Nashville: Abingdon, 1995. ISBN-13: 9780687157860 (hardcover). Cost: $25.20 (down from 40.00) at Cokesbury.com. 
 3. *Biblia Hebraica Stuttgartensia.* Editio funditus renovata. ed. Stuttgart: Deutsche Bibelgesellschaft, 1984. **Choose One:**
   * Standard edition, larger, hard cover: ISBN-13: 9781598561609 Cost: $71.96 (down from 89.95) at Cokesbury.com. **Or**
   * Compact edition, smaller, soft cover: ISBN-13: 9781598561630 Cost: $51.96 (down from 64.95) at Cokesbury.com
@@ -28,5 +32,5 @@ Assignments include:
 
 1. Examinations: there will be three (3) exams during Elementary Hebrew 1. Each exam “weighs” equally, but there is also obviously a cumulative aspect to the exams. The third (3rd) exam will be according to the G-ETS reading competency exam for foreign languages.
 2. Vocabulary Quizzes: Quizzes will be drawn from a "frequency list" of Biblical Hebrew words, beginning with the most common words and progressing through less common words.
-3. Homework: Dobson’s grammar will be the focus of our homework: in class, we will read aloud and translate from his exercises, while continuing our oral/aural activities. 
+3. Homework: Seow’s grammar will be the focus of our homework: in class, we will read aloud and translate from his exercises, while continuing our oral/aural activities. 
 4. Exegetical paper: students will accomplish an exegetical thesis paper that demonstrates a critical engagement with Hebrew grammar and syntax. Every student will "peer review" a late-term draft for three (3) of her colleagues. If you judge that your work has received inadequate engagement in review, please make me aware. Judgments about engagement in peer review will count toward a reviewer’s participation grade.
